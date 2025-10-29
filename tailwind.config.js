@@ -19,8 +19,8 @@ module.exports = {
         glow: "0 0 30px rgba(74,144,226,0.15)",
       },
       fontFamily: {
-        sans: ["Inter", "ui-sans-serif", "system-ui"],
-        serif: ["Lora", "ui-serif", "Georgia"],
+        sans: ["var(--font-inter)", "sans-serif"],
+        serif: ["var(--font-lora)", "serif"],
       },
     },
   },
